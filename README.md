@@ -1,9 +1,9 @@
 
-![alt text](https://github.com/KennyHc/data-dashboard/blob/main/picture1.png?raw=true)
+![alt text](https://github.com/KennyHc/data-dashboard/blob/main/image1.png?raw=true)
 
-![alt text](https://github.com/KennyHc/data-dashboard/blob/main/picture2.png?raw=true)
+![alt text](https://github.com/KennyHc/data-dashboard/blob/main/image2.png?raw=true)
 
-![alt text](https://github.com/KennyHc/data-dashboard/blob/main/picture3.png?raw=true)
+![alt text](https://github.com/KennyHc/data-dashboard/blob/main/image3.png?raw=true)
 
 
 ## Available Scripts
