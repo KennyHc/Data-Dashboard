@@ -17,3 +17,5 @@ To start database
 
 ### `npm start`
 
+to run application
+
