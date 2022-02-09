@@ -1,3 +1,7 @@
+Data Dashboard made using Chart.js, React, Sequelize and PostgreSQL.
+
+Adjustable user settings to view data for different date ranges and categories.
+
 
 ![alt text](https://github.com/KennyHc/data-dashboard/blob/main/image1.png?raw=true)
 
